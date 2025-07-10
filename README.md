@@ -18,7 +18,6 @@
     <a href="www.linkedin.com/in/ebrahim-shaban-mosa"> <!-- LinkedIn Profile -->
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
     </a>&nbsp;
-  
     <a href="[https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O](https://web.whatsapp.com/)"> <!-- WhatsApp  -->
       <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="45"/>
     </a>
