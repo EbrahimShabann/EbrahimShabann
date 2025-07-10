@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">I'm Ebrahim Shaban</h1>
 
-<!--
-**EbrahimShabann/EbrahimShabann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> .NET Developer | Full Stack</h2>
+<br>
 
-Here are some ideas to get you started:
+  <p align="center">
+    <a href="https://www.google.com.eg/search?q=ahmed+hemeda"> <!-- Google Me -->
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30D050&pause=2000"> <!-- Text -->
+    </a>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=EbrahimShabann&style=flat&color=4010B0" height="25"/> <!-- Profile Views -->
+  </p>
+
+<h3 align="left">📤 Connect with Me:</h3>
+  <p align="left">
+    <a href="www.linkedin.com/in/ebrahim-shaban-mosa"> <!-- LinkedIn Profile -->
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
+    </a>&nbsp;
+   
+  </p>
+
+<h3 align="left">🛠️ Languages & Tools:</h3>
+  <p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,postman,swagger,sqlserver,git,html,css,js"/>
+  </p>
+
+
+  <br>
+
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EbrahimShabann&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp; <!-- Most Used Languages -->
+    <img src="https://streak-stats.demolab.com/?user=EbrahimShabann&theme=highcontrast" height="120"/> <!-- GitHub Streak -->
+  </p>
+
+  <p align="left">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
+  </p>
