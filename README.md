@@ -21,6 +21,10 @@
     <a href="https://wa.me/201555178340"> <!-- WhatsApp  -->
       <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="45"/>
     </a>
+    <!-- Portfolio -->
+  <a href="https://ebrahimshabann.github.io/portfolio/">
+    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" height="45" alt="Portfolio"/>
+  </a>
   </p>
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
